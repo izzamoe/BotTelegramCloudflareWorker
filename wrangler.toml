@@ -1,0 +1,11 @@
+name = "telegraf-cloudflare-telegram-bot-boilerplate"
+main = "dist/index.ts"
+compatibility_date = "2024-04-21"
+env = { }
+
+[triggers]
+crons = [ ]
+
+[vars]
+BOT_TOKEN = "6009422756:AAEqsWU6TkxDrd-JJlLGOfSv0EaIElNpTIo"
+SECRET_PATH = "your_secret_path"
